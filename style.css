@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: cornsilk;
+    width: 60%;
+    margin: auto;
+    border: 2px solid cornsilk;
+    box-shadow: 2px 2px 5px grey;
+    padding-left: 20px;
+}
+
+
